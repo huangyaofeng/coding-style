@@ -1,0 +1,23 @@
+ #vim 的使用
+ :ls #see buffers
+ :bn # go to next buffer
+ :bp # go to previous buffer
++    :bd # delete a buffer
+##缩进
+首先用可视行模式选中这几行,然后 `>`
+
++## multiple files
+            +
++    :ls #see buffers
++    :bn # go to next buffer
++    :bp # go to previous buffer
+##从a文件东西粘到b文件
+     1在a中选中
+     2输入：e b
+     3在b中粘贴
+##删除多行
+     1输入可视行shift+v
+     2先选中一行ctrl+a 再上下选中多行
+     3按d删除（按P粘回所删的）
+##打开标签crtl+shift+t 关闭是ctrl+d
+
