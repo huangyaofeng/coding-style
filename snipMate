@@ -1,0 +1,13 @@
+ #The use of snipMate
+ 1 Go to the snipMate web install it
+   
++unzip 解压zip 如：unzip snipMate.zip -d ~/.vim 
+（-d ~/.vim表示把解压文件放到.vim目录中)
+ 2 可打开.vimrc 设置快捷方式如set number
+ 3 设置alias如用do 代替I love dog 
+   vim c.snippets(在.vim中)
+   snippets dog 
+   Tab(重要)I love dog
+   OK!
+#复制网址可用git clone 
+
