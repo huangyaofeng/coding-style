@@ -1,0 +1,7 @@
+ #the use of ctags
+ 1 install ctags 
+ 2 ctags file 如ctags hl.c
+ 3 ctrl+i 到函数调用处
+ 4 ctrl+o/t  回到原处
+ #set spell 
+ 在vim中检查单词错误 
